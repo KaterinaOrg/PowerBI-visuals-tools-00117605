@@ -4,7 +4,7 @@
     "configExternalURL": "",
     "projectToken": "",
     "enableLicenseViolations": true,
-    "baseBranches": []
+    "baseBranches": ["main","feature/"]
   },
   "scanSettingsSAST": {
     "enableScan": true,
